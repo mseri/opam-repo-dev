@@ -25,5 +25,6 @@ depends: [
   "oasis" {build}
   "async"
   "bisect"
+  "result"
   "rresult"
 ]
