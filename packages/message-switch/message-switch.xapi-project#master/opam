@@ -17,7 +17,7 @@ depends: [
   "syslog"
   "uri"
   "re"
-  "rpc"
+  "rpc" {= "mseri#master"}
   "mtime" {= "patched-0.8.1+no-js"}
   "mirage-block-unix"
   "shared-block-ring" {= "mirage#master"}
