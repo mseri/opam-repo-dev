@@ -11,7 +11,7 @@ remove: [
 depends: [
   "ocamlfind"
   "cohttp" {>= "0.15.0" }
-  "sexplib" {< "113.24.00"}
+  "sexplib"
   "ounit" {test}
   "syslog"
   "uri"

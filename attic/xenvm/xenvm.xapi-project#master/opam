@@ -24,7 +24,7 @@ depends: [
   "cmdliner"
   "cohttp"
   "rpc"
-  "sexplib" {< "113.24.00"}
+  "sexplib"
   "stringext"
   "xapi-rrdd-plugin" {= "xapi-project#master"}
 ]

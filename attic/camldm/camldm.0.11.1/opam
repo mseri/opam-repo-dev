@@ -30,7 +30,7 @@ depends: [
   "ctypes" {= "0.4.1"}
   "ctypes-foreign"
   "rpc" {>= "1.5.0"}
-  "sexplib" {< "113.24.00"}
+  "sexplib"
   "stringext"
   "ocamlfind" {build}
   "oasis" {build}
