@@ -12,9 +12,9 @@ depends: [ "uri"
            "cmdliner"
            "cohttp" {>= "0.15.2"}
            "xmlm"
-           "rpc" {>= "1.5.3"}
+           "rpc" {>= "1.9.4"}
            "ocamlfind"
-           "message-switch" {= "xapi-project#master"}
+           "message-switch" {= "jonludlam#ppx"}
            "xapi-stdext" {= "xapi-project#master"}
            "xapi-rrd" {= "xapi-project#master"}
            "xapi-inventory" {= "xapi-project#master"}
