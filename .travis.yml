@@ -6,7 +6,7 @@ env:
   - PKG=libvirt.djs55#typo
   - PKG=localstorage-js.djs55#opam
   - PKG=logminer.jeromemaloberti#master
-  - PKG=message-switch.xapi-project#master
+  - PKG=message-switch.jonludlam#master
   - PKG=mirage-block-volume.mirage#master
   - PKG=mtime.patched-0.8.1+no-js
   - PKG=nbd.xapi-project#master
@@ -14,9 +14,9 @@ env:
   - PKG=shared-block-ring.2.2.0
   - PKG=vncproxy.xapi-project#master
   - PKG=vxs.xapi-project#master
-  - PKG=xapi-backtrace.0.3
+  - PKG=xapi-backtrace.mseri#ppx
   - PKG=xapi-forkexecd.xapi-project#master
-  - PKG=xapi-idl.xapi-project#master
+  - PKG=xapi-idl.jonludlam#ppx
   - PKG=xapi-inventory.xapi-project#master
   - PKG=xapi-libs-transitional.xapi-project#master
   - PKG=xapi-netdev.xapi-project#master
