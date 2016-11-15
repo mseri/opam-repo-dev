@@ -6,7 +6,7 @@ build: [
 ]
 remove: [make "uninstall" "BINDIR=%{bin}%"]
 depends: [
-  "xapi-idl" {= "xapi-project#master"}
+  "xapi-idl" {= "jonludlam#ppx"}
   "re"
   "rpc"
   "ocamlfind"

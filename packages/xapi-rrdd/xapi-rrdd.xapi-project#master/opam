@@ -11,8 +11,8 @@ remove: [make "uninstall" "BINDIR=%{bin}%" "SBINDIR=%{bin}%" "LIBEXECDIR=%{bin}%
 depends: [
   "obuild" {>= "0.1.1"}
   "ocamlfind"
-  "xapi-backtrace" {>= "0.3"}
-  "xapi-idl" {= "xapi-project#master"}
+  "xapi-backtrace" {= "mseri#ppx"}
+  "xapi-idl" {= "jonludlam#ppx"}
   "xapi-libs-transitional" {= "xapi-project#master"}
   "xapi-inventory" {= "xapi-project#master"}
   "xapi-stdext" {= "xapi-project#master"}

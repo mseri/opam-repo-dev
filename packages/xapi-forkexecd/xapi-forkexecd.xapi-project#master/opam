@@ -25,5 +25,5 @@ depends: [
   "uuidm"
   "xapi-stdext" {>= "2.0.0"}
   "re"
-  "xapi-idl" {= "xapi-project#master"}
+  "xapi-idl" {= "jonludlam#ppx"}
 ]

@@ -9,7 +9,7 @@ depends: [
   "rpc"
   "xapi-forkexecd" {= "xapi-project#master"}
   "xapi-stdext" {= "xapi-project#master"}
-  "xapi-idl" {= "xapi-project#master"}
+  "xapi-idl" {= "jonludlam#ppx"}
   "xapi-libs-transitional" {= "xapi-project#master"}
   "xapi-rrd-transport" {= "xapi-project#master"}
 ]

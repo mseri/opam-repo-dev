@@ -14,7 +14,7 @@ depends: [
   "uri"
   "re"
   "rpc"
-  "xapi-idl" {= "xapi-project#master"}
+  "xapi-idl" {= "jonludlam#ppx"}
   "xenstore"
   "xenstore_transport"
   "xenctrl" {= "xapi-project#master"}
