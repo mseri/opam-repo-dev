@@ -27,7 +27,7 @@ depends: [
   "ounit" {test}
   "ocamlfind" {build}
   "type_conv" {build}
-  "lwt" {<= "2.5.2"}
+  "lwt"
   "cstruct" {>= "1.9.0"}
   "cmdliner"
   "sexplib"
