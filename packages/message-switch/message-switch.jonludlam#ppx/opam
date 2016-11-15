@@ -12,6 +12,7 @@ depends: [
   "ocamlfind"
   "cohttp" {>= "0.15.0" }
   "sexplib"
+  "ppx_sexp_conv"
   "ounit" {test}
   "syslog"
   "uri"
