@@ -12,6 +12,7 @@ env:
   - PKG=nbd.xapi-project#master
   - PKG=rrddump.xapi-project#master
   - PKG=shared-block-ring.2.2.0
+  - PKG=shared-block-ring.mirage#master
   - PKG=vncproxy.xapi-project#master
   - PKG=vxs.xapi-project#master
   - PKG=xapi-backtrace.mseri#ppx
