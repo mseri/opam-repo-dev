@@ -16,7 +16,7 @@ env:
   - PKG=vncproxy.xapi-project#master
   - PKG=vxs.xapi-project#master
   - PKG=xapi-backtrace.mseri#ppx
-  - PKG=xapi-forkexecd.xapi-project#master
+  - PKG=xapi-forkexecd.mseri#ppx
   - PKG=xapi-idl.jonludlam#ppx
   - PKG=xapi-inventory.xapi-project#master
   - PKG=xapi-libs-transitional.xapi-project#master
