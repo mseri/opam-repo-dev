@@ -30,7 +30,7 @@ env:
   - PKG=xapi-stdext.xapi-project#master
   - PKG=xapi-storage-cli.0.9.7
   - PKG=xapi-storage-ffs.0.31
-  - PKG=xapi-storage-script.xapi-project#master
+  - PKG=xapi-storage-script.xenserver#trunk-ppx
   - PKG=xapi-storage.xapi-project#master
   - PKG=xapi-tapctl.xapi-project#master
   - PKG=xapi-test-utils.xapi-project#master
