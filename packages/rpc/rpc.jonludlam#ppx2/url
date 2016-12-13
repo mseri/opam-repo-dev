@@ -1,1 +1,1 @@
-archive: "https://github.com/jonludlam/ocaml-rpc/archive/v1.9.6.tar.gz"
+git: "git://github.com/jonludlam/ocaml-rpc#ppx2"
